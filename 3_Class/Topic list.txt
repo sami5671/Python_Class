@@ -1,0 +1,4 @@
+1. Function (parameter, Arguments, return value & Scope)
+2. reverse
+3. palindrome
+4. prime number

@@ -1,0 +1,61 @@
+--------------NESTED LOOP & Function---------------
+
+1. Rectangular Star Pattern 
+* * * * * 
+* * * * *
+* * * * *
+* * * * *
+
+2. Right Half Pyramid 
+*
+* *
+* * *
+* * * *
+* * * * *
+
+3. Left Half Pyramid
+
+        *
+      * *
+    * * *
+  * * * *
+* * * * *
+
+4. Full Pyramid
+        *
+      * * *
+    * * * * * 
+  * * * * * * *
+* * * * * * * * *
+
+5. Inverted Right Half Pyramid
+
+
+* * * * *
+* * * *
+* * *
+* *
+*
+
+6. Inverted Left Half Pyramid
+* * * * *
+  * * * *
+    * * * 
+      * *
+        *
+7. Inverted Full Pyramid
+* * * * * * * * *
+  * * * * * * *
+    * * * * *
+      * * *
+        *
+8. Hollow Rectangle Star Pattern
+
+* * * * * * *
+*           *
+*           *
+*           *
+*           *
+* * * * * * *
+
+

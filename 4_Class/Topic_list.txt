@@ -1,0 +1,19 @@
+                        String
+                ----------------------
+1. (slicing, modify, concatenate, format, Escape Characters )
+2. string method (capitalize, casefold, upper, lower, isupper, islower, isdigit, isspace, isalnum, join, count, 
+   title, swapcase, strip, split, endswith, find, rfind, index, rindex, replace )
+
+
+                        Problems
+                    ----------------                        
+1. https://www.geeksforgeeks.org/problems/string-functions-i/1
+2. https://www.geeksforgeeks.org/problems/string-functions-ii/1
+3. https://www.geeksforgeeks.org/problems/palindrome-string0817/1
+4. https://judge.beecrowd.com/en/problems/view/2147
+5. https://judge.beecrowd.com/en/problems/view/2160
+6. https://judge.beecrowd.com/en/problems/view/2760
+7. https://judge.beecrowd.com/en/problems/view/1049
+8. https://judge.beecrowd.com/en/problems/view/1864
+9. https://judge.beecrowd.com/en/problems/view/2253
+10.https://judge.beecrowd.com/en/problems/view/1272
