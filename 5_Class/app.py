@@ -11,7 +11,6 @@ def Right_Half_pyramid(row, col):
             print("*", end=" ")
         print()
 
-
 def Left_Half_Pyramid(row, col):
     for i in range(1, row + 1):
         for j in range(row - i):
@@ -20,7 +19,6 @@ def Left_Half_Pyramid(row, col):
             print("*", end=" ")
         print()
 
-
 def Full_Pyramid(row, col):
     for i in range(1, row + 1):
         for j in range(row - i):
@@ -28,7 +26,6 @@ def Full_Pyramid(row, col):
         for k in range(2 * i - 1):
             print("*", end=" ")
         print()
-
 
 def menu():
     while True:
