@@ -92,12 +92,10 @@ number = ["4", "7", "1", "5", "5", "7"]
 # duplicate number remove from a list
 number = ["4", "7", "1", "5", "5", "7"]
 
-dup_item = set()
-u_item = []
+unique_item = []
 
 for i in number:
-    if i not in dup_item:
-        u_item.append(i)
-        dup_item.add(i)
+    if i not in unique_item:
+        unique_item.append(i)
 
-print(dup_item)
+print(unique_item)
