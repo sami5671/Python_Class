@@ -1,0 +1,31 @@
+--------------Data Structure In Python---------------
+1. Tuple (ordered, immutable. Allowed-duplicate)
+----- Declare Tuple 
+----- Access Tuple(indexing,negative indexing, Range indexing, checking in keyword)
+----- Update(index, append, operator, remove)
+----- Unpack(variable, asterisk*)
+----- Loop (for, while)
+----- join
+----- method (index, count)
+
+2. Set (unordered, immutable, duplicate Not-Allowed)
+----- declare set({}, constructor())
+----- Access (in keyword, loop)
+----- Add (add,update)
+----- Remove (remove, discard, pop)
+----- Join (Union and update, intersection, difference, symmetric difference)
+
+🔸 Comparison: list vs tuple vs set
+Feature	    list	          tuple	              set
+Mutable	    ✅Yes	        ❌No	              ✅ Yes
+Ordered	    ✅Yes	        ✅Yes	          ❌ No
+Duplicates	✅ Allowed       ✅Allowed	      ❌Not Allowed
+Use Case	Dynamic data	  Fixed data	      Unique items, fast lookup
+
+---------------- Problems -----------------
+1. Write a Python program to sort a tuple by its float element.
+Ex: price = [('item1', '18.20'), ('item2', '15.10'), ('item3', '24.5')]
+
+2. Write a Python program to count the elements in a list until an element is a tuple.
+Ex: num = [10, 20, 30, (10, 20), 40]
+Result: 3

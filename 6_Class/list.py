@@ -97,5 +97,4 @@ unique_item = []
 for i in number:
     if i not in unique_item:
         unique_item.append(i)
-
 print(unique_item)
