@@ -1,0 +1,60 @@
+--------------Data Structure In Python---------------
+
+1. Dictionary Data type
+---Access item(key[''], get, keys, values, items)
+---Change item (update)
+---Add item(update)
+---Remove item(pop, popitem, del, clear)
+---Loop(values)
+---Copy(copy, dict)
+---Nested Dictionary
+
+
+🔸 Comparison: list vs tuple vs set vs Dictionary                              
+Feature	    list	          tuple	              set                           Dictionary
+Mutable	    ✅Yes	        ❌No	              ✅ Yes                        ✅ Yes
+Ordered	    ✅Yes	        ✅Yes	          ❌ No                         ✅ Yes (3.7+)
+Duplicates	✅ Allowed       ✅Allowed	      ❌Not Allowed                 ❌ not Allowed Keys must be unique
+Use Case	Dynamic data	  Fixed data	      Unique items, fast lookup     Key-value pairs, fast access by key
+
+
+--------------Problem set-----------------
+
+1.students = { 'name1': 'Theodore', 'name2': 'Mathew', 'name4': 'Roxanne', 'name3': 'David' }
+*Sort this dictionary by key 
+*Sort this dictionary by value
+
+2.
+student_data = {
+    'id1': {
+        'name': ['Sara'],
+        'class': ['V'],
+        'subject_integration': ['english, math, science']
+    },
+    'id2': {
+        'name': ['David'],
+        'class': ['V'],
+        'subject_integration': ['english, math, science']
+    },
+    'id3': {
+        'name': ['Sara'],
+        'class': ['V'],
+        'subject_integration': ['english, math, science']
+    },
+    'id4': {
+        'name': ['Surya'],
+        'class': ['V'],
+        'subject_integration': ['english, math, science']
+    }
+}
+Remove duplicates from the dictionary
+
+3.student_details = [
+  {'id': 1, 'subject': 'math', 'V': 70, 'VI': 82},
+  {'id': 2, 'subject': 'math', 'V': 73, 'VI': 74},
+  {'id': 3, 'subject': 'math', 'V': 75, 'VI': 86}
+]
+your task is to average of V and VI number and store as "V+VI": 70 like this for every item
+
+3. https://www.hackerrank.com/challenges/py-collections-ordereddict/problem?isFullScreen=true
+
