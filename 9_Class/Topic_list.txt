@@ -1,0 +1,22 @@
+Intro to pyGame and setup
+
+step-1 
+------
+pip install PyGame
+
+step-2
+------
+write your PyGame code 
+
+step-3
+------
+Run your code
+
+
+------ PyGame Structure ------
+1. First import module
+2. Initialize PyGame
+3. Write game loop
+
+------- Topics --------
+1. Intro to pyGame

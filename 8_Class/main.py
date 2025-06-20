@@ -75,8 +75,8 @@ myfamily = {"child1": child1, "child2": child2, "child3": child3}
 
 # print(myfamily["child1"]["year"])
 
-for i, j in myfamily.items():
-    print(i)
+# for i, j in myfamily.items():
+#     print(i)
 
-    for k in j:
-        print(k + ":", j[k])
+#     for k in j:
+#         print(k + ":", j[k])
